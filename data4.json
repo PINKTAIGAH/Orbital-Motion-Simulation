@@ -1,0 +1,83 @@
+{
+	"objects": [
+		{
+			"name": "Sun",
+			"colour": "y",
+			"mass": 1.989E+30,
+			"init_position": {
+				"x": 0,
+				"y": 0
+			},
+			"init_velocity": {
+				"x": 0,
+				"y": 0
+			}
+		},
+		{
+			"name": "Mercury",
+			"colour": "r",
+			"mass": 3.285E+23,
+			"init_position": {
+				"x": 6.4E+10,
+				"y": 0
+			},
+			"init_velocity": {
+				"x": 0,
+				"y": 46360
+			}
+		},
+		{
+			"name": "Venus",
+			"colour": "g",
+			"mass": 4.867E+24,
+			"init_position": {
+				"x": 1.08E+11,
+				"y": 0
+			},
+			"init_velocity": {
+				"x": 0,
+				"y": 35020
+			}
+		},
+		{
+			"name": "Earth",
+			"colour": "b",
+			"mass": 5.972E+24,
+			"init_position": {
+				"x": 1.496E+11,
+				"y": 0
+			},
+			"init_velocity": {
+				"x": 0,
+				"y": 29780
+			}
+		},
+		{
+    		"name": "Mars",
+    		"colour": "r",
+    		"mass": 6.39E+23,
+    		"init_position": {
+        		"x": 2.17475868e+11,
+        		"y": 1.11602329e+11
+        	},
+        	"init_velocity": {
+            	"x":-1.03660725e+04,
+            	"y": 2.15657724e+04
+            }
+		},
+		{
+    		"name": "Satelite",
+    		"colour": "y",
+    		"mass": 2328,
+    		"init_position": {
+        		"x": 1.596002E+11,
+        		"y": 0
+        	},
+        	"init_velocity": {
+            	"x": 0,
+            	"y": 25070
+            }
+        }
+	],
+	"timestep": 77500
+}
